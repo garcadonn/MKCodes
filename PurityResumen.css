@@ -3,7 +3,7 @@
 	--acc1:#c7a9c7;
 	--acc2:#d1c0d1;
 	--acc3:#4d4351;
-  --acc4:#9e829e;
+    --acc4:#9e829e;
 	--bg:#fcfafc;
 }
 
@@ -44,7 +44,7 @@
 }
 
 #MKPT .MKPT-T .MKPT-IMGBX {
-  width:600px
+  width:600px;
   height:250px;
   position:relative;
   display:flex;
